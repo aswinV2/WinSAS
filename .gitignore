@@ -1,0 +1,20 @@
+# Flutter
+winsas_frontend/build/
+winsas_frontend/.dart_tool/
+winsas_frontend/.packages
+winsas_frontend/*.iml
+winsas_frontend/android/.gradle
+winsas_frontend/android/local.properties
+winsas_frontend/android/key.properties
+winsas_frontend/android/app/winsas-key.jks
+
+# Python
+winSAS-backend/__pycache__/
+winSAS-backend/*.pyc
+winSAS-backend/*.db
+winSAS-backend/winsas.db
+winSAS-backend/.env
+
+# General
+.DS_Store
+*.log
